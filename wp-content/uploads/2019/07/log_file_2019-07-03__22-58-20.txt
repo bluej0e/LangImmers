@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Businessup were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://www.languageimmersioninc.dev.cc
+Data file = /Users/rodrigoviola/Documents/Websites/www.languageimmersioninc.dev.cc/wp-content/uploads/2019/07/demo-content-import-file_2019-07-03__22-58-20.xml
+Widget file = /Users/rodrigoviola/Documents/Websites/www.languageimmersioninc.dev.cc/wp-content/uploads/2019/07/demo-widgets-import-file_2019-07-03__22-58-20.json
+Customizer file = /Users/rodrigoviola/Documents/Websites/www.languageimmersioninc.dev.cc/wp-content/uploads/2019/07/demo-customizer-import-file_2019-07-03__22-58-20.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+Search - No Title - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget Area : 
+
+Text - About - Imported
+Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Service Widget Area : 
+
+BUP - Service Widget - No Title - Imported
+BUP - Service Widget - No Title - Imported
+BUP - Service Widget - No Title - Imported
+
+Slider Widgets Area : 
+
+BUP - Slider Widget - No Title - Imported
+BUP - Slider Widget - No Title - Imported
+BUP - Slider Widget - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
